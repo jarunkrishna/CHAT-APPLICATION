@@ -1,4 +1,16 @@
-<h1 align="center">✨ Fullstack Chat & Video Calling App ✨</h1>
+<h1 align="center">CHAT APPLICATION</h1>
+
+*COMPANY*   : CODETECH IT SOLUTIONS
+
+*NAME*      : ARUN KRISHNA J 
+
+*INTERN ID* : CT04DK51
+
+*DOMAIN*    : FULL STACK WEB DEVELOPMENT
+
+*DURATION*  : 4 WEEKS
+
+*MENTOR*     : NEELA SANTHOSH KUMAR
 
 ![Screenshot (149)](https://github.com/user-attachments/assets/3b3f4045-8991-4438-9955-4d1f557f8f5a)
 
