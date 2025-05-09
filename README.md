@@ -1,6 +1,15 @@
-<h1 align="center">✨ Fullstack Chat & Video Calling App ✨</h1>
+![Screenshot (143)](https://github.com/user-attachments/assets/a3d706b3-3455-4487-99e4-cb2693b07013)<h1 align="center">✨ Fullstack Chat & Video Calling App ✨</h1>
 
-![Demo App](/frontend/public/screenshot-for-readme.png)
+![Screenshot (149)](https://github.com/user-attachments/assets/3b3f4045-8991-4438-9955-4d1f557f8f5a)
+
+![Screenshot (150)](https://github.com/user-attachments/assets/367568ea-7269-4f26-8081-dc7437e203d0)
+
+![Screenshot (143)](https://github.com/user-attachments/assets/bc91056e-b565-4559-95ff-1bd4543f08ae)
+
+![Screenshot (146)](https://github.com/user-attachments/assets/75b4c9e7-cb31-44bd-80a3-8ef32725ec9a)
+
+![Screenshot (151)](https://github.com/user-attachments/assets/de8a37cc-cb0b-49d9-9315-edfb99ae3cad)
+
 
 Highlights:
 
