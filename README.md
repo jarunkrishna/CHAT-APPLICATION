@@ -1,4 +1,4 @@
-![Screenshot (143)](https://github.com/user-attachments/assets/a3d706b3-3455-4487-99e4-cb2693b07013)<h1 align="center">✨ Fullstack Chat & Video Calling App ✨</h1>
+<h1 align="center">✨ Fullstack Chat & Video Calling App ✨</h1>
 
 ![Screenshot (149)](https://github.com/user-attachments/assets/3b3f4045-8991-4438-9955-4d1f557f8f5a)
 
